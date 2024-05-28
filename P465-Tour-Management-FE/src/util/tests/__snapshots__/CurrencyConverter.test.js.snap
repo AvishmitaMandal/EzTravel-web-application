@@ -1,0 +1,226 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders page 1`] = `
+<form
+  className="MuiBox-root css-164r41r"
+  noValidate={true}
+  onSubmit={[Function]}
+>
+  <div
+    class="row"
+  >
+    <label
+      className="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-animated MuiFormLabel-colorPrimary MuiInputLabel-root MuiInputLabel-animated css-9npbnl-MuiFormLabel-root-MuiInputLabel-root"
+      id="input-label"
+    >
+      Input
+    </label>
+    <div
+      className="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-colorPrimary  css-1yk1gt9-MuiInputBase-root-MuiOutlinedInput-root-MuiSelect-root"
+      onClick={[Function]}
+    >
+      <div
+        aria-controls=":r0:"
+        aria-expanded="false"
+        aria-haspopup="listbox"
+        aria-labelledby="input input"
+        className="MuiSelect-select MuiSelect-outlined MuiInputBase-input MuiOutlinedInput-input css-11u53oe-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input"
+        id="input"
+        onBlur={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onMouseDown={[Function]}
+        role="combobox"
+        tabIndex={0}
+      >
+        <span
+          className="notranslate"
+        >
+          ​
+        </span>
+      </div>
+      <input
+        aria-hidden={true}
+        aria-invalid={false}
+        className="MuiSelect-nativeInput css-yf8vq0-MuiSelect-nativeInput"
+        onAnimationStart={[Function]}
+        onChange={[Function]}
+        tabIndex={-1}
+        value=""
+      />
+      <svg
+        aria-hidden={true}
+        className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium MuiSelect-icon MuiSelect-iconOutlined css-hfutr2-MuiSvgIcon-root-MuiSelect-icon"
+        data-testid="ArrowDropDownIcon"
+        focusable="false"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M7 10l5 5 5-5z"
+        />
+      </svg>
+      <fieldset
+        aria-hidden={true}
+        className="MuiOutlinedInput-notchedOutline css-1d3z3hw-MuiOutlinedInput-notchedOutline"
+      >
+        <legend
+          className="css-yjsfm1"
+        >
+          <span>
+            Age
+          </span>
+        </legend>
+      </fieldset>
+    </div>
+    <div
+      className="MuiFormControl-root MuiFormControl-marginNormal MuiTextField-root css-1rv3ei8-MuiFormControl-root-MuiTextField-root"
+    >
+      <label
+        className="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-sizeMedium MuiInputLabel-outlined MuiFormLabel-colorPrimary Mui-required MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-sizeMedium MuiInputLabel-outlined css-14s5rfu-MuiFormLabel-root-MuiInputLabel-root"
+        data-shrink={false}
+        htmlFor="inputCurrency"
+        id="inputCurrency-label"
+      >
+        Input Currency
+        <span
+          aria-hidden={true}
+          className="MuiFormLabel-asterisk MuiInputLabel-asterisk css-wgai2y-MuiFormLabel-asterisk"
+        >
+           
+          *
+        </span>
+      </label>
+      <div
+        className="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-colorPrimary MuiInputBase-formControl css-9ddj71-MuiInputBase-root-MuiOutlinedInput-root"
+        onClick={[Function]}
+      >
+        <input
+          aria-invalid={false}
+          autoFocus={false}
+          className="MuiInputBase-input MuiOutlinedInput-input css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input"
+          disabled={false}
+          id="inputCurrency"
+          name="inputCurrency"
+          onAnimationStart={[Function]}
+          onBlur={[Function]}
+          onChange={[Function]}
+          onFocus={[Function]}
+          required={true}
+          type="number"
+        />
+        <fieldset
+          aria-hidden={true}
+          className="MuiOutlinedInput-notchedOutline css-1d3z3hw-MuiOutlinedInput-notchedOutline"
+        >
+          <legend
+            className="css-yjsfm1"
+          >
+            <span>
+              Input Currency
+               
+              *
+            </span>
+          </legend>
+        </fieldset>
+      </div>
+    </div>
+  </div>
+  <div
+    class="row"
+  >
+    <label
+      className="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-animated MuiFormLabel-colorPrimary MuiInputLabel-root MuiInputLabel-animated css-9npbnl-MuiFormLabel-root-MuiInputLabel-root"
+      id="output-label"
+    >
+      Output
+    </label>
+    <div
+      className="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-colorPrimary  css-1yk1gt9-MuiInputBase-root-MuiOutlinedInput-root-MuiSelect-root"
+      onClick={[Function]}
+    >
+      <div
+        aria-controls=":r2:"
+        aria-expanded="false"
+        aria-haspopup="listbox"
+        aria-labelledby="ouput-label output"
+        className="MuiSelect-select MuiSelect-outlined MuiInputBase-input MuiOutlinedInput-input css-11u53oe-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input"
+        id="output"
+        onBlur={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onMouseDown={[Function]}
+        role="combobox"
+        tabIndex={0}
+      >
+        <span
+          className="notranslate"
+        >
+          ​
+        </span>
+      </div>
+      <input
+        aria-hidden={true}
+        aria-invalid={false}
+        className="MuiSelect-nativeInput css-yf8vq0-MuiSelect-nativeInput"
+        onAnimationStart={[Function]}
+        onChange={[Function]}
+        tabIndex={-1}
+        value=""
+      />
+      <svg
+        aria-hidden={true}
+        className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium MuiSelect-icon MuiSelect-iconOutlined css-hfutr2-MuiSvgIcon-root-MuiSelect-icon"
+        data-testid="ArrowDropDownIcon"
+        focusable="false"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M7 10l5 5 5-5z"
+        />
+      </svg>
+      <fieldset
+        aria-hidden={true}
+        className="MuiOutlinedInput-notchedOutline css-1d3z3hw-MuiOutlinedInput-notchedOutline"
+      >
+        <legend
+          className="css-yjsfm1"
+        >
+          <span>
+            Age
+          </span>
+        </legend>
+      </fieldset>
+    </div>
+    <div
+      id="outputCurrency"
+    >
+      Output Currency
+    </div>
+  </div>
+  <button
+    className="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-fullWidth MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-fullWidth css-1sbvkol-MuiButtonBase-root-MuiButton-root"
+    disabled={false}
+    onBlur={[Function]}
+    onContextMenu={[Function]}
+    onDragLeave={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    style={
+      Object {
+        "backgroundColor": "#2484BF",
+      }
+    }
+    tabIndex={0}
+    type="submit"
+  >
+    Convert
+  </button>
+</form>
+`;
